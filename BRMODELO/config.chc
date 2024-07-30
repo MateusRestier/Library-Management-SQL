@@ -1,0 +1,16 @@
+#Config
+#Mon May 13 19:52:39 BRT 2024
+cfg.ancorador=true
+cfg.autosalvarintervalo=5
+cfg.mostrargrade=true
+cfg.apagartextoaoeditar=true
+cfg.location.y=-8
+cfg.location.x=-8
+cfg.mostrardimensoesaomover=true
+cfg.gradelargura=23
+cfg.mostrartooltips=true
+cfg.tipodefault=0
+cfg.mostrarids=false
+cfg.recentes=C\:\\Users\\Mateus\\Desktop\\A4 sql\\Modelagem\\L\u00F3gica\\L\u00F3gico_1.brM3;C\:\\Users\\Mateus\\Desktop\\A4 sql\\Modelagem\\Conceitual\\Conceitual_1.brM3;C\:\\Users\\Mateus\\Desktop\\A4 sql\\curso alura\\conceitual\\projeto_aula_clube_do_livro.brM3;C\:\\Users\\Mateus\\Desktop\\A4 sql\\curso alura\\Aula+2.brM3;C\:\\Users\\Mateus\\Desktop\\A4 sql\\Conceitual_1.brM3
+cfg.location.salvar=true
+cfg.propaguedeletetolines=true

@@ -1,0 +1,324 @@
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+617  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+656  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+657  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+684  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+13490 [AWT-EventQueue-0] ERROR ca.sqlpower.architect.swingui.KettleDataSourceOptionsPanel  -  The map is: {}
+22241 [Thread-5] ERROR ca.sqlpower.architect.swingui.action.CheckForUpdateAction  - Fail to retrieve current version number!
+1796121 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown SQLTypePhysicalProperties property name changed while monitoring pkTable
+1796121 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown UserDefinedSQLType property myAutoIncrement changed while monitoring pkTable
+1796122 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown SQLTypePhysicalProperties property name changed while monitoring pkTable
+1796123 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown UserDefinedSQLType property myAutoIncrement changed while monitoring pkTable
+1796124 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown SQLTypePhysicalProperties property name changed while monitoring pkTable
+1796124 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown UserDefinedSQLType property myAutoIncrement changed while monitoring pkTable
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+754  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+798  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+798  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+828  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+17885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+17887 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+17887 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+17888 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+17888 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+22478 [Thread-5] ERROR ca.sqlpower.architect.swingui.action.CheckForUpdateAction  - Fail to retrieve current version number!
+1560016 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1560016 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1560016 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1560016 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1571058 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1571058 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1571058 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1571059 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1571059 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1596830 [AWT-EventQueue-0] ERROR ca.sqlpower.architect.swingui.ExceptionHandler  - Uncaught exception
+java.lang.RuntimeException: java.lang.IllegalStateException: Reference count of is already 0; can't remove any references!
+	at ca.sqlpower.architect.swingui.action.DeleteSelectedAction.actionPerformed(DeleteSelectedAction.java:191)
+	at javax.swing.SwingUtilities.notifyAction(Unknown Source)
+	at javax.swing.JComponent.processKeyBinding(Unknown Source)
+	at javax.swing.JComponent.processKeyBindings(Unknown Source)
+	at javax.swing.JComponent.processKeyEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.KeyboardFocusManager.redispatchEvent(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(Unknown Source)
+	at java.awt.DefaultKeyboardFocusManager.dispatchEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$500(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: java.lang.IllegalStateException: Reference count of is already 0; can't remove any references!
+	at ca.sqlpower.sqlobject.SQLColumn.removeReference(SQLColumn.java:1417)
+	at ca.sqlpower.sqlobject.SQLRelationship.disconnectRelationship(SQLRelationship.java:1078)
+	at ca.sqlpower.sqlobject.SQLTable.removeExportedKey(SQLTable.java:866)
+	at ca.sqlpower.sqlobject.SQLTable.removeChildImpl(SQLTable.java:1995)
+	at ca.sqlpower.sqlobject.SQLObject.removeChild(SQLObject.java:274)
+	at ca.sqlpower.architect.swingui.action.DeleteSelectedAction.actionPerformed(DeleteSelectedAction.java:171)
+	... 36 more
+1596889 [AWT-EventQueue-0] INFO  ca.sqlpower.util.ExceptionReport  - Posting error report to SQL Power at URL <http://bugs.sqlpower.ca/architect/postReport>
+1600028 [AWT-EventQueue-0] ERROR ca.sqlpower.util.ExceptionReport  - Couldn't send exception report to <"http://bugs.sqlpower.ca/architect/postReport">
+java.net.SocketTimeoutException: connect timed out
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at ca.sqlpower.util.ExceptionReport.send(ExceptionReport.java:283)
+	at ca.sqlpower.architect.swingui.ExceptionHandler.handleAndReport(ExceptionHandler.java:117)
+	at ca.sqlpower.architect.swingui.ExceptionHandler.uncaughtException(ExceptionHandler.java:74)
+	at java.lang.ThreadGroup.uncaughtException(Unknown Source)
+	at java.lang.ThreadGroup.uncaughtException(Unknown Source)
+	at java.awt.EventDispatchThread.processException(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+770  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+825  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+826  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+860  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+813  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+858  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+859  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+892  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+22482 [Thread-5] ERROR ca.sqlpower.architect.swingui.action.CheckForUpdateAction  - Fail to retrieve current version number!
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+777  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+820  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+821  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+850  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+732  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+770  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+771  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+796  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+22336 [Thread-5] ERROR ca.sqlpower.architect.swingui.action.CheckForUpdateAction  - Fail to retrieve current version number!
+73364 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown column property autoIncrementSequenceName changed while monitoring pkTable
+73368 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown column property autoIncrementSequenceName changed while monitoring pkTable
+73368 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown column property autoIncrementSequenceName changed while monitoring pkTable
+73368 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown column property autoIncrementSequenceName changed while monitoring pkTable
+110638 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+CREATE TABLE tb_Cliente (
+                CPF_Cliente VARCHAR(11) NOT NULL,
+                Nome VARCHAR NOT NULL,
+                email VARCHAR NOT NULL,
+                Telefone_1 VARCHAR NOT NULL,
+                Telefone_2 VARCHAR,
+                PRIMARY KEY (CPF_Cliente)
+)
+110638 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_Cliente MODIFY COLUMN Telefone_1 VARCHAR COMMENT 'formato: 11922223333'
+110638 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_Cliente MODIFY COLUMN Telefone_2 VARCHAR COMMENT 'formato: 11922223333'
+110638 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE tb_Funcionario (
+                CPF_Funcionario VARCHAR(11) NOT NULL,
+                Cargo VARCHAR NOT NULL,
+                Nome VARCHAR NOT NULL,
+                Emprestimos_Gerenciados INT NOT NULL,
+                PRIMARY KEY (CPF_Funcionario)
+)
+110639 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_Funcionario MODIFY COLUMN CPF_Funcionario VARCHAR(11) COMMENT 'apenas numeros'
+110639 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE tb_Categoria (
+                ID_Categoria INT AUTO_INCREMENT NOT NULL,
+                Nome_Categoria VARCHAR NOT NULL,
+                PRIMARY KEY (ID_Categoria)
+)
+110639 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE tb_Editora (
+                ID_Editora INT AUTO_INCREMENT NOT NULL,
+                Nome VARCHAR NOT NULL,
+                Telefone VARCHAR NOT NULL,
+                PRIMARY KEY (ID_Editora)
+)
+110639 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_Editora MODIFY COLUMN Telefone VARCHAR COMMENT 'formato: 11922223333'
+110640 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE tb_Autor (
+                ID_Autor INT AUTO_INCREMENT NOT NULL,
+                SEXO VARCHAR(1) NOT NULL,
+                Idade INT NOT NULL,
+                Nome VARCHAR(200) NOT NULL,
+                PRIMARY KEY (ID_Autor)
+)
+110640 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_Autor MODIFY COLUMN SEXO VARCHAR(1) COMMENT '(M ou F)'
+110640 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE tb_Livros (
+                ISBN VARCHAR NOT NULL,
+                Titulo VARCHAR NOT NULL,
+                Ano_Publicacao INT NOT NULL,
+                Genero VARCHAR NOT NULL,
+                ID_Editora INT NOT NULL,
+                ID_Autor INT NOT NULL,
+                PRIMARY KEY (ISBN)
+)
+110641 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE tb_LivroCategoria (
+                ISBN VARCHAR NOT NULL,
+                ID_Categoria INT NOT NULL,
+                PRIMARY KEY (ISBN, ID_Categoria)
+)
+110641 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_LivroCategoria COMMENT 'tabela associativa'
+110641 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE tb_Avaliacao (
+                ID_Avaliacao INT AUTO_INCREMENT NOT NULL,
+                Nota DOUBLE PRECISIONS NOT NULL,
+                Comentario VARCHAR,
+                ISBN VARCHAR NOT NULL,
+                CPF_Cliente VARCHAR(11) NOT NULL,
+                PRIMARY KEY (ID_Avaliacao)
+)
+110641 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_Avaliacao MODIFY COLUMN Nota FLOAT COMMENT 'Nota de 0 a 10'
+110642 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE tb_Emprestimo (
+                ID_Emprestimo INT NOT NULL,
+                Data_Emprestimo DATE NOT NULL,
+                Data_Devolucao DATE NOT NULL,
+                CPF_Funcionario VARCHAR(11) NOT NULL,
+                CPF_Cliente VARCHAR(11) NOT NULL,
+                ISBN VARCHAR NOT NULL,
+                PRIMARY KEY (ID_Emprestimo)
+)
+110642 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_Emprestimo MODIFY COLUMN CPF_Funcionario VARCHAR(11) COMMENT 'apenas numeros'
+110643 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+ALTER TABLE tb_Emprestimo ADD CONSTRAINT tb_cliente_tb_emprestimo_fk
+FOREIGN KEY (CPF_Cliente)
+REFERENCES tb_Cliente (CPF_Cliente)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+110643 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_Avaliacao ADD CONSTRAINT tb_cliente_tb_avaliacao_fk
+FOREIGN KEY (CPF_Cliente)
+REFERENCES tb_Cliente (CPF_Cliente)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+110643 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_Emprestimo ADD CONSTRAINT tb_funcionario_tb_emprestimo_fk
+FOREIGN KEY (CPF_Funcionario)
+REFERENCES tb_Funcionario (CPF_Funcionario)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+110644 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_LivroCategoria ADD CONSTRAINT tb_categoria_tb_livrocategoria_fk
+FOREIGN KEY (ID_Categoria)
+REFERENCES tb_Categoria (ID_Categoria)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+110644 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_Livros ADD CONSTRAINT tb_editora_tb_livros_fk
+FOREIGN KEY (ID_Editora)
+REFERENCES tb_Editora (ID_Editora)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+110644 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_Livros ADD CONSTRAINT tb_autor_tb_livros_fk
+FOREIGN KEY (ID_Autor)
+REFERENCES tb_Autor (ID_Autor)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+110645 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_Emprestimo ADD CONSTRAINT tb_livros_tb_emprestimo_fk
+FOREIGN KEY (ISBN)
+REFERENCES tb_Livros (ISBN)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+110645 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_Avaliacao ADD CONSTRAINT tb_livros_tb_avaliacao_fk
+FOREIGN KEY (ISBN)
+REFERENCES tb_Livros (ISBN)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+110646 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE tb_LivroCategoria ADD CONSTRAINT tb_livros_tb_livrocategoria_fk
+FOREIGN KEY (ISBN)
+REFERENCES tb_Livros (ISBN)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+110648 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.SQLScriptDialog  - The list size is :26
+137372 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.SQLScriptDialog  - SQL_FILE_FILTER:SQL Script Files:[sql, ddl]
+4582243 [AWT-EventQueue-0] ERROR ca.sqlpower.architect.swingui.KettleDataSourceOptionsPanel  -  The map is: {}
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+721  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+762  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+762  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+792  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
